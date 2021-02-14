@@ -138,7 +138,7 @@ When **Width unit** is set to *Pixels*, you can set column width to the followin
 * **Auto** – columns are evenly divided in the available space of the row
 * **Fixed** – columns have a specified pixel value
 
-For example, you can you can have three columns of which the first is 200 pixels wide (*Fixed* width), the second is 100 pixels (*Fixed* width), and the last one is set to *Auto* which means that it will take up the rest of the space in the row.
+For example, you can have three columns of which the first is 200 pixels wide (*Fixed* width), the second is 100 pixels (*Fixed* width), and the last one is set to *Auto* which means that it will take up the rest of the space in the row.
 
 ### 3.4 Visibility Section {#visibility}
 
